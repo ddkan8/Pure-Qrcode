@@ -12,7 +12,7 @@ Icon都是自己用Sketch画的，感谢同桌的设计老湿教会我用Sketch�
 https://coding.net/u/yuanoook/p/Pure-Qrcode/git/raw/master/PureQrcode.crx
 
 ###最终效果：
-![shot.png](https://coding.net/u/yuanoook/p/Pure-Qrcode/git/raw/master/shot.png)
+![shot.png](https://raw.githubusercontent.com/yuanoook/Pure-Qrcode/master/shot.png)
 
 ##Download
 
