@@ -16,6 +16,6 @@ Email: yuanoook@foxmail.com
 
 ##Developer Reference
 
-	[https://developer.chrome.com/extensions](https://developer.chrome.com/extensions)
+	https://developer.chrome.com/extensions
 
-	[http://open.chrome.360.cn/extension_dev/overview.html](http://open.chrome.360.cn/extension_dev/overview.html)
+	http://open.chrome.360.cn/extension_dev/overview.html
