@@ -1,6 +1,6 @@
 #Pure Qrcode extension for chrome
 
-![shot.png](https://coding.net/u/yuanoook/p/Pure-Qrcode/git/raw/master/shot.png)
+![shot.png](https://raw.githubusercontent.com/yuanoook/Pure-Qrcode/master/shot.png)
 
 ##Download
 
