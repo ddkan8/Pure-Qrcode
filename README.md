@@ -8,7 +8,7 @@ Icon都是自己用Sketch画的，感谢同桌的设计老湿教会我用Sketch�
 
 *插件没有在 chrome 应用中心注册，所以会有警告，下载下来直接往 chrome://extensions 里面拖，安装就行了
 
-###下载地址：[https://coding.net/u/yuanoook/p/Pure-Qrcode/git/raw/master/PureQrcode.crx](https://coding.net/u/yuanoook/p/Pure-Qrcode/git/raw/master/PureQrcode.crx)
+###下载地址：<a href="https://coding.net/u/yuanoook/p/Pure-Qrcode/git/raw/master/PureQrcode.crx" target="_blank">https://coding.net/u/yuanoook/p/Pure-Qrcode/git/raw/master/PureQrcode.crx</a>
 
 ###最终效果：
 
