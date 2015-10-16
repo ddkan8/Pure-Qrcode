@@ -1,5 +1,7 @@
 #Pure Qrcode extension for chrome
 
+![shot.png](https://coding.net/u/yuanoook/p/Pure-Qrcode/git/raw/master/shot.png)
+
 ##Download
 
 Source code: [http://fly.yuanoook.com/PureQrcode](http://fly.yuanoook.com/PureQrcode)
