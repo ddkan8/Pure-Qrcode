@@ -2,8 +2,6 @@
 
 ##Download
 
-Crx: [PureQrcode.crx](http://yuanoook.com/file?hash=d426e731f6a578614a062063cd2b1b3c)
-
 Source code: [http://fly.yuanoook.com/PureQrcode](http://fly.yuanoook.com/PureQrcode)
 
 ##Author
